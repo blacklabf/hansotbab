@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5badd324e1415d3fd316a81dd78caa61f7d3ed14c33969fb9812b1cfa60c338a
-size 294
+package com.b209.hansotbab.fridge.repository;
+
+import com.b209.hansotbab.fridge.entity.Fridge;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface FridgeRepository extends JpaRepository<Fridge, Long> {
+}
