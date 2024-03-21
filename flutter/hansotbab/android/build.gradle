@@ -1,18 +1,3 @@
-allprojects {
-    repositories {
-        google()
-        mavenCentral()
-    }
-}
-
-rootProject.buildDir = '../build'
-subprojects {
-    project.buildDir = "${rootProject.buildDir}/${project.name}"
-}
-subprojects {
-    project.evaluationDependsOn(':app')
-}
-
-tasks.register("clean", Delete) {
-    delete rootProject.buildDir
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:04522f836cd0e9fc130910268367c7466dced14333b72ef5a15fbb38443278c7
+size 462
