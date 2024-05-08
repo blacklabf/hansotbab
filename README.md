@@ -56,26 +56,33 @@
         <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/1ea043c7-1af7-4f5b-94ad-25614f0ef3e8"/></td>
         <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/3f7b1f8a-c147-4a2e-a202-c63fdbaf0a42"/></td>
         <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/81e86de9-f34c-4310-9205-bb9286513d47"/></td>
-        <td align="center" ><img width="300px" src="https://github.com/blacklabf/joblog/assets/108640460/20e36918-9cea-4458-8570-10fd01d531c2"/></td>
     <tr/>
     <tr>
        <td align="center">🔼 메인페이지</td>
        <td align="center">🔼 냉장고 탭 이동</td>
        <td align="center">🔼 음식 등록시, <br>음식명 자동완성</td>
-       <td align="center">🔼 음식등록시, <br>검색어 자동완성</td>
     </tr>
 </table>
 <br><br>
 <table>
     <tr height="140px">
-        <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/b6a972fb-a294-4456-a223-3e6d08bb97e3"/> </td>
+        <td align="center" ><img width="300px" src="https://github.com/blacklabf/joblog/assets/108640460/20e36918-9cea-4458-8570-10fd01d531c2"/></td>
+      <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/b6a972fb-a294-4456-a223-3e6d08bb97e3"/> </td>
         <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/6797396a-6820-4f02-b756-527c0e33a577"/> </td>
+    <tr/>
+    <tr>
+       <td align="center">🔼 음식등록시, <br>검색어 자동완성</td>
+           <td align="center">🔼 가져가기 및 감사인사</td>
+       <td align="center">🔼 감사알림</td>
+    </tr>
+</table>
+<br></br>
+<table>
+    <tr height="140px"> 
         <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/2e24e230-5d0d-4d70-871b-6878fc643a46"/> </td>
         <td align="center" ><img width="300px" src="https://github.com/blacklabf/springboot-study/assets/108640460/cd2de631-eda1-410c-81a7-358a3a537617"/> </td>
     <tr/>
     <tr>
-       <td align="center">🔼 가져가기 및 감사인사</td>
-       <td align="center">🔼 감사알림</td>
        <td align="center">🔼 즐겨찾기 및 <br>음식등록알림</td>
        <td align="center">🔼 감사인사 및 위시리스트</td>
     </tr>
