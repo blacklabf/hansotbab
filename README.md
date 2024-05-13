@@ -1,5 +1,5 @@
 # 내 손안의 공유 냉장고로 마음을 나눠요 : 한솥밥 :yellow_heart:
-![메인페이지](https://github.com/blacklabf/joblog/assets/108640460/55a3b5d2-291d-4d75-affd-170b12d9e463)
+![메인페이지](https://github.com/blacklabf/hansotbab/assets/108640460/0997ee99-889c-4a9d-9599-4baf4da77b34)
 
 ## 목차
 [1. 프로젝트 개요](#1️⃣-프로젝트-개요)<br>
@@ -125,8 +125,7 @@
 
 
 ## :five: 시스템 아키텍처
-![시스템아키텍쳐](https://github.com/blacklabf/joblog/assets/108640460/98d59c19-7e96-4ad8-ba27-bcab2cb5bb30)
-
+![시스템아키텍쳐](https://github.com/blacklabf/hansotbab/assets/108640460/f12389b6-6f45-4835-81e7-632dcc64e809)
 <br><br>
 
 ## :six: 파일 구조
@@ -550,15 +549,15 @@
 ## :eight: 문서
 
 ### 📂ERD
-![erd](https://github.com/blacklabf/joblog/assets/108640460/b6e0a9c5-85de-4e78-9aff-0e0f3da25183)
+![erd](https://github.com/blacklabf/hansotbab/assets/108640460/8137eabb-db94-46c3-8742-f604b9de17f2)
 
 ### 📂기능명세서
-<img src="https://github.com/blacklabf/joblog/assets/108640460/88931eeb-b185-4ab3-a96d-ad43050a1266" width="400" />
-<img src="https://github.com/blacklabf/joblog/assets/108640460/7c235404-27cd-4672-a9e6-f3c78df488e9" width="400" />
+<img src="[https://github.com/blacklabf/joblog/assets/108640460/88931eeb-b185-4ab3-a96d-ad43050a1266](https://github.com/blacklabf/hansotbab/assets/108640460/c038f7f5-1f54-4507-942e-fd2a9116fcce)" width="400" />
+<img src="[https://github.com/blacklabf/joblog/assets/108640460/7c235404-27cd-4672-a9e6-f3c78df488e9](https://github.com/blacklabf/hansotbab/assets/108640460/6ecacaab-d7cf-4a7a-a8c8-515f140a9031)" width="400" />
 
 ### 📂API 명세서
-<img src="https://github.com/blacklabf/joblog/assets/108640460/9cd8cb15-b26e-4143-8e66-e2974bab3b87" width="400" />
-<img src="https://github.com/blacklabf/joblog/assets/108640460/49d8b624-18f2-438a-be63-b1d1fbf1bd8f" width="400" />
+<img src="[https://github.com/blacklabf/joblog/assets/108640460/9cd8cb15-b26e-4143-8e66-e2974bab3b87](https://github.com/blacklabf/hansotbab/assets/108640460/0c16dc90-ded8-4888-a905-e9225843704d)" width="400" />
+<img src="[https://github.com/blacklabf/joblog/assets/108640460/49d8b624-18f2-438a-be63-b1d1fbf1bd8f](https://github.com/blacklabf/hansotbab/assets/108640460/2f06fbb2-17e2-4d5a-9e41-e41a6b961480)" width="400" />
 
 ### 📂포팅메뉴얼
 :arrow_forward: [포팅 메뉴얼](/exec/포팅 매뉴얼 - 한솥밥ver2.pdf)
